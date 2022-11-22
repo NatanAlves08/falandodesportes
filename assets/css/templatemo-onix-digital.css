@@ -1929,9 +1929,7 @@ responsive
   .main-banner::before {
     display: none;
   }
-  .main-banner .item {
-    margin-right: 0px;
-  }
+  
   .main-banner  {
     padding-bottom: 0px;
   }
