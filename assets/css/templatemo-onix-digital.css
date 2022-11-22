@@ -1925,10 +1925,7 @@ responsive
 
 }
 
-@media (max-width: 992px) {
-  .main-banner::before {
-    display: none;
-  }
+
   
   .main-banner  {
     padding-bottom: 0px;
